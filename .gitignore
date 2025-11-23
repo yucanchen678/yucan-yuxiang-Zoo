@@ -9,6 +9,7 @@ Saved/
 .vscode/
 .idea/
 .history/
+.cursor/
 .vsconfig
 *.sln
 *.VC.db
