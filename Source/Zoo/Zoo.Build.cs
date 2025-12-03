@@ -22,23 +22,5 @@ public class Zoo : ModuleRules
 		});
 
 		PrivateDependencyModuleNames.AddRange(new string[] { });
-
-		PublicIncludePaths.AddRange(new string[] {
-			"Zoo",
-			"Zoo/Variant_Horror",
-			"Zoo/Variant_Horror/UI",
-			"Zoo/Variant_Shooter",
-			"Zoo/Variant_Shooter/AI",
-			"Zoo/Variant_Shooter/UI",
-			"Zoo/Variant_Shooter/Weapons"
-		});
-
-		// Uncomment if you are using Slate UI
-		// PrivateDependencyModuleNames.AddRange(new string[] { "Slate", "SlateCore" });
-
-		// Uncomment if you are using online features
-		// PrivateDependencyModuleNames.Add("OnlineSubsystem");
-
-		// To include OnlineSubsystemSteam, add it to the plugins section in your uproject file with the Enabled attribute set to true
 	}
 }
