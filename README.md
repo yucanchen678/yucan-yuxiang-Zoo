@@ -7,7 +7,7 @@ Horror • Tactics • Story • Suspense • First-Person
 You play as the night manager of a fortified zoo that imprisons “Chibis,” strange organisms with wildly different personalities, movement patterns, and countermeasures. Some appear harmless and others openly violent, but every creature must be studied, contained, and—when necessary—subdued. Over a single night you will patrol cells, respond to outages, track escapes, and decide whether to recapture or eliminate each runaway Chibi.
 
 ## Chibi Roster
-Each Chibi features a distinct behavior profile, capture approach, and knockout rule set.
+Each Chibi features a distinct behavior profile, capture approach, and knockout rule set. While the Chibis is knocked, it will not aggro other Chibis.
 
 ### Doodos — Passive
 - **Behavior:** Three potato-shaped companions who hop together, bare sharp teeth when threatened, and flee if separated.
@@ -20,19 +20,19 @@ Each Chibi features a distinct behavior profile, capture approach, and knockout 
 - **Knockout:** Cannot be knocked out.
 
 ### Hider — Passive
-- **Behavior:** Loves hide-and-seek, remaining invisible most of the time while leaving a faint red trail. Visibility flickers faster near the player, who cannot target it until revealed. Immune to other Chibis.
+- **Behavior:** Loves hide-and-seek, remaining invisible most of the time while leaving a faint red trail. Visibility flickers faster near the player, and flees from the player when in close range. Immune to other Chibis.
 - **Capture:** Must be knocked out first, then can be picked up.
 - **Knockout:** One shot from the gun.
 
 ### The Blind — Passive/Aggressive
-- **Behavior:** A human-like figure curled on its knees. Blind while curled but laser-focused on any sound; relentlessly attacks whatever it sees and can see in darkness. Ignores Doodos. Gunfire draws it closer.
+- **Behavior:** A human-like figure curled on its knees. Blind while curled but eye-focused on any sound; relentlessly attacks whatever it sees and can see in darkness. Ignores Doodos. Gunfire draws it closer.
 - **Capture:** Sneak up silently, blindfold it without alerting, then lead it back.
 - **Knockout:** Cannot be knocked out.
 
 ### Berserk — Aggressive
 - **Behavior:** A feral beast that attacks players and nearby Chibis indiscriminately.
 - **Capture:** Drag it back to its cell once it is downed.
-- **Knockout:** Multiple gunshots or a strike from The Blind; wakes up after one minute.
+- **Knockout:** Multiple gunshots or strikes from The Blind; wakes up after one minute.
 
 ## Nightly Timeline
 - **19:30** – Wake up in the dorm at dusk, prepare food for all Chibis.
@@ -69,4 +69,3 @@ Each Chibi features a distinct behavior profile, capture approach, and knockout 
 
 ## Version Control
 - Repository managed with GitHub for collaboration and history tracking.
-- Commit regularly as features from each phase land to maintain clear checkpoints.
