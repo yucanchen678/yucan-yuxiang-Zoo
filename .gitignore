@@ -29,7 +29,4 @@ Thumbs.db
 # --- Plugins to ignore
 Plugins/VisualStudioTools/
 
-# --- Keep these (tracked project files)
-!*.uproject
-!*.uplugin
 
