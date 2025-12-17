@@ -6,6 +6,9 @@ Horror • Tactics • Story • Suspense • First-Person
 ## Background
 You play as the night manager of a fortified zoo that imprisons “Chibis,” strange organisms with wildly different personalities, movement patterns, and countermeasures. Some appear harmless and others openly violent, but every creature must be studied, contained, and—when necessary—subdued. Over a single night you will patrol cells, respond to outages, track escapes, and decide whether to recapture or eliminate each runaway Chibi.
 
+## Full Game Video
+[![Zoo FullGame](https://img.youtube.com/vi/egldKGWGmWk/maxresdefault.jpg)](https://youtu.be/egldKGWGmWk)
+
 ## Chibi Roster
 Each Chibi features a distinct behavior profile, capture approach, and knockout rule set. While the Chibis is knocked, it will not aggro other Chibis.
 
